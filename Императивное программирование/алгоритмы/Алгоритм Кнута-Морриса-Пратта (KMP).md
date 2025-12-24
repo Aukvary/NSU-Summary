@@ -44,7 +44,6 @@ void kmp_search(char* str, char* target) {
     free(pi);
 }
 ```
-
 ##### асимптотика
 - скорость O(n + m)
 - память O(m)
