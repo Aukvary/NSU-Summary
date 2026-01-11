@@ -1,3 +1,3 @@
-#### n-редукция - $\lambda x.(f x) \Rightarrow_\eta f$  
+#### $\eta$-редукция - $\lambda x.(f x) \Rightarrow_\eta f$  
 ***
 #понятие #дискретная-математика #лямбда-исчисление 
