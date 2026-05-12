@@ -1,10 +1,9 @@
 ## Установка:
 - ### git:
-		``` Bash
-			cd path/to/directory #перейти к директории, в которую вы хотите склонировать репозиторий
-		  
-			git clone https://github.com/Aukvary/NSU-Summary.git #склонировать репозиторий
-		```
+``` Bash
+	cd path/to/directory 
+	git clone https://github.com/Aukvary/NSU-Summary.git 
+```
 - ### obsidian:
 	- перейдите по [ссылке](https://obsidian.md/) и скачайте obsidian
 	- после установки выберете открыть `открыть папку как хранилище` и выберете директорию, которую вы склонировали
