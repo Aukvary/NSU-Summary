@@ -1,8 +1,8 @@
 ## Установка:
 - ### git:
 ``` Bash
-	cd path/to/directory 
-	git clone https://github.com/Aukvary/NSU-Summary.git 
+cd path/to/directory 
+git clone https://github.com/Aukvary/NSU-Summary.git 
 ```
 - ### obsidian:
 	- перейдите по [ссылке](https://obsidian.md/) и скачайте obsidian
