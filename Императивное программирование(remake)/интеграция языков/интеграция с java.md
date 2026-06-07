@@ -12,7 +12,7 @@
 // JNIEXPORT и JNICALL - макросы jni
 JNIEXPORT jlong JNICALL Java_com_packt_NativeStack_newStack(JNIEnv *env, jclass cls) {
     // вызов реальной функции из библиотеки с
-    return (jlong)cstack_new(),
+    return (jlong)cstack_new();
 }
 ```
 ***
